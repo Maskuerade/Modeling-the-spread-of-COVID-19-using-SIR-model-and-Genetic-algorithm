@@ -9,7 +9,7 @@
 ---
 * The report containing all of our findings and work
 * the poster of the project summarizing our work
-* Link to the website which contains a simulation of the model
+* Link to the website which contains a simulation of the model : https://sir-simulation.vercel.app/index.html
 ---
 ## our Team:
 Amir Hesham Khalil
