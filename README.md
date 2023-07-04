@@ -12,13 +12,13 @@
 * Link to the website which contains a simulation of the model : https://sir-simulation.vercel.app/index.html
 ---
 ## our Team:
-Amir Hesham Khalil
-Mariam Ahmed Said
-Camellia Marwan Hussein
-Muhannad Abdullah Abdullah
-Fady Mohsen Magdy
-Malak Nasser Mohamed
-Farah Ossama Ahmed
-Hazem Raafat Mohamed
+* Amir Hesham Khalil
+* Mariam Ahmed Said
+* Camellia Marwan Hussein
+* Muhannad Abdullah Abdullah
+* Fady Mohsen Magdy
+* Malak Nasser Mohamed
+* Farah Ossama Ahmed
+* Hazem Raafat Mohamed
 
 
